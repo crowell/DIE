@@ -29,7 +29,7 @@ Value Parser Plugin Example
 A Boolean parser makes a perfect example of creating your own value parser plugin.
 We would like our to receive either the raw value `0x0` or `0x1 `and register the ParsedValue `True` of `False` accordingly.
 
- {ADD ILLUSTRATION}
+![](https://github.com/ynvb/DIE/blob/master/DIE/Misc/ValueParserDiagram.png)
 
 ### Before you begin
 
