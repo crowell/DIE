@@ -4,4 +4,4 @@ Module = HandleParser
 
 [Documentation]
 Author = Lior Oppenheim
-Description = An amazing plugin for parsing handles (that is still not currently working ;)
+Description = A plugin for parsing Windows Handles (Retunrs Handle's name and type)
