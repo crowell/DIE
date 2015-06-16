@@ -33,7 +33,6 @@ class HandleParser(DataPluginBase):
         """
         self.addSuportedType("HANDLE", 0)
         self.addSuportedType("HGLOBAL", 0)
-        self.addSuportedType("HMODULE", 0)
 
     def matchType(self, type):
         """
